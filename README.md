@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Huy Ta Quang - Final year Student of Open University of HCMC (OU)
+# 👋 Hi, I'm Huy Ta Quang 
 
-**Data Engineer | ELT • Datawarehouse • Python • Airflow • Kafka • Spark**
+**Final year Computer Science Student of Open University of HCMC (OU)**
 
-Welcome to my GitHub profile! I’m passionate about building scalable data solutions and transforming raw information into actionable insights.
+Welcome to my GitHub profile! I’m passionate about data engineering and building scalable data solutions and transforming raw information into actionable insights.
 
 ## 🚀 Skills & Expertise
 
