@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I’m passionate about data engineering and buildi
 
   ## 📊 GitHub Activity
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=huyta1910&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=huyta1910&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=huyta1910&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huyta1910&theme=default)
   
 ## My Hobbies:
