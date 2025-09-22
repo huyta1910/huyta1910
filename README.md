@@ -2,7 +2,7 @@
 
 **Final year Computer Science Student of Open University of HCMC (OU)**
 
-Welcome to my GitHub profile! I’m passionate about data engineering and building scalable data solutions and transforming raw information into actionable insights.
+Welcome to my GitHub profile! I’m passionate about Data Engineering and building scalable data solutions and transforming raw information into actionable insights.
 
 ## 🚀 Skills & Expertise
 - **Data Modeling**: Designing star/snowflake schemas, building dimensional models for analytics
