@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I’m passionate about Data Engineering and buildi
 ## 🚀 Skills & Expertise
 - **Data Modeling**: Designing star/snowflake schemas, building dimensional models for analytics
 - **SQL & Databases**: Writing complex queries, performance tuning, working with PostgreSQL & MongoDB
-- **ELT**: Designing robust Extract, Load, Transform pipelines for efficient data flow.
+- **Data Pipeline**: Designing robust Extract, Load, Transform and Extract, Transform, Load pipelines for efficient data flow.
 - **Datawarehouse**: Experience with modern warehousing solutions to enable fast analytics.
 - **Python**: Scripting, automation, and crafting data pipelines with libraries like Pandas and PySpark.
 - **Airflow**: Workflow orchestration and scheduling for production-grade data processes.
