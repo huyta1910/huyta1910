@@ -21,14 +21,11 @@ Welcome to my GitHub profile! I’m passionate about Data Engineering and buildi
 - Automate workflows and orchestrate complex jobs
 - Work with big data technologies to deliver scalable solutions
 
-  ## 📊 GitHub Activity
+## 📊 GitHub Activity
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=huyta1910&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=huyta1910&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huyta1910&theme=default)
   
-## My Hobbies:
-- Playing guitar, Reading
-
 ## 📫 Let's Connect
 
 Feel free to check out my repositories or reach out if you’d like to collaborate on data engineering projects!
